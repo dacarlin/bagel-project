@@ -1,3 +1,7 @@
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176255">
+<img src="journal.pone.0176255.g002.png">
+</a>
+
 # Investigating the functional effects of mutations in a model enzyme 
 
 This is the main repository for an ongoing project in the Siegel group ("the bagel project") to design and characterize the Michaelis-Menten kinetics and stability of mutants of a β-glucosidase ("bagel"). The researchers of the Bagel Team are investigating how point mutations to enzymes change functional parameters, stabilty, and structure. 
